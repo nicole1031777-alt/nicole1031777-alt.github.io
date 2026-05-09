@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["22AUPN2JL5.com.mangaroll.app"],
+        "components": [
+          {
+            "/": "/wechat/*",
+            "comment": "WeChat OAuth Universal Link callback"
+          }
+        ]
+      }
+    ]
+  }
+}
